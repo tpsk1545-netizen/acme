@@ -2,5 +2,5 @@ git init
 git add.
 git commit -m "생성 index.html"
 git branch -M main
-git remote add origin https://github.com/alikerock/acme.git
+git remote add origin https://github.com/tpsk1545-netizen/acme/edit/main/acme
 git push -u origin main
